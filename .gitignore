@@ -7,3 +7,9 @@ npm-debug.log*
 *.tsbuildinfo
 .env.local
 tmp
+# Coverage
+coverage
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.log
